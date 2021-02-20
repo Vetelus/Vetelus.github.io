@@ -9,6 +9,7 @@
 +   2021年2月20日13点59分
 
     +   使用 [nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe)主题搭建了网站
+    +   仍存在很多缺陷，需要尝试读懂hexo主题的格式，然后自己修改设计
     
 +   2021年2月20日11点13分
 
