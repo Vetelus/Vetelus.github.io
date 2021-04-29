@@ -6,6 +6,24 @@
 
 ### 更新日志
 
++   2021年4月29日14点16分
+
+    +   参考这个[issue](https://github.com/litten/hexo-theme-yilia/issues/715)，修改aboutweb的配置，并注释掉fix.js中的转义函数，aboutweb成功解释了
+    +   但是用同样的方法处理aboutme却不行……
+    
++   2021年4月29日14点00分
+
+    +   不知道什么原因，修改不生效，还不清楚q-show的含义
+    
+        <img src="README/image-20210429140120967.png" alt="image-20210429140120967" style="zoom: 67%;" />
+    
+    +   其中aboutme能正常解释，而aboutweb且不能，两者只有q-show有差异
+    
++   2021年4月29日13点07分
+
+    +   去除网站右下角power by功能
+    +   **修改tools.ejs等文件**，引入aboutweb功能
+    
 +   2021年4月28日23点41分
 
     +   简单研究了hexo模板，大概明白如何自定义——修改theme下的layout文件
