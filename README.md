@@ -6,6 +6,10 @@
 
 ### 更新日志
 
++   2021年4月29日15点19分
+
+    +   简单添加了背景音乐功能，但目前存在比较致命的问题——进入新页面时会刷新，音乐需要重新播放
+    
 +   2021年4月29日14点16分
 
     +   参考这个[issue](https://github.com/litten/hexo-theme-yilia/issues/715)，修改aboutweb的配置，并注释掉fix.js中的转义函数，aboutweb成功解释了
